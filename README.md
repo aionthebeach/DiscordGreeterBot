@@ -1,0 +1,2 @@
+# DiscordGreeterBot
+WelcomeWhale
