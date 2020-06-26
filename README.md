@@ -1,5 +1,5 @@
 # DiscordGreeterBot
-This is a simple project that enables our greeter bot, WelcomeWhale.
+This is a simple project that enables our greeter bot, WelcomeWhale. WelcomeWhale will send a DM if our informational links as well as a greeting in general chat.
 
 ## Use for your own
 
